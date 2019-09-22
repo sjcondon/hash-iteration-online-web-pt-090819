@@ -3,8 +3,6 @@ birthday_kids = {
  "Sarah" => 6, 
  "Amanda" => 27
 }
-"Amanda" = 27
-}
 
 def happy_birthday(birthday_kids)
   birthday.kids.each do |kids_name,age|
